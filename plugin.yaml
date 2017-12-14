@@ -5,5 +5,5 @@ description: |-
   This plugin extends Kedge support to Helm.
 ignoreFlags: false
 useTunnel: false
-command: "HELM_PLUGIN_DIR/kedge.sh"
+command: "$HELM_PLUGIN_DIR/kedge.sh"
 
