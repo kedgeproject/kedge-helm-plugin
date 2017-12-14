@@ -15,7 +15,7 @@ Typical usage:
    $ helm create mychart
    $ mkdir -p mychart/kedge
    $ place kedge files in mychart/kedge/
-   $ helm package mychart
+   $ helm kedge package mychart
    $ helm install ./mychart-0.1.0.tgz 
 
 EOF
