@@ -1,0 +1,4 @@
+apiVersion: v1
+description: A sample Wordpress Helm chart using Kedge
+name: wordpress
+version: 0.1.0
