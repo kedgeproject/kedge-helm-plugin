@@ -22,7 +22,7 @@ EOF
 }
 
 build() {
-  kedge generate -f $1/kedge/
+  kedge generate -f $1/kedge/ > $1/templates/kedge-generated.yaml
 }
 
 package() {
