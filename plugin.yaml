@@ -1,0 +1,9 @@
+name: "kedge"
+version: "0.6.0"
+usage: "Simple, Concise & Declarative Kubernetes Applications"
+description: |-
+  This plugin extends Kedge support to Helm.
+ignoreFlags: false
+useTunnel: false
+command: "kedge"
+
