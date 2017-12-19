@@ -18,6 +18,9 @@
 3. Deploy the generated chart
    `helm install wordpress-0.1.0.tgz`
 
+#### Short PoC:
+[![asciicast](https://asciinema.org/a/dmGQDj0X89S3YCrYZ2oPEHF7G.png)](https://asciinema.org/a/dmGQDj0X89S3YCrYZ2oPEHF7G)
+
 ##### What's next?
 
 - Add support for parameterization
