@@ -3,7 +3,7 @@
 #### Using the plugin -
 
 1. Install the plugin
-   `helm plugin install https://github.com/containscafeine/kedge-helm-plugin.git`
+   `helm plugin install https://github.com/kedgeproject/kedge-helm-plugin.git`
 
 2. Package the chart using
    `helm kedge package <path to chart>`
